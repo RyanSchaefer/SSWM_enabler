@@ -10,5 +10,5 @@ Downloads:
 
 [python 2.7](https://www.python.org/download/releases/2.7/)
 
-[Weapon Mod Enabler](
+[Weapon Mod Enabler](https://github.com/VSquidDevV/weaponmod_enabler/releases/download/v1.0/enable_weaponmod.py)
 
