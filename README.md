@@ -1,4 +1,6 @@
-# Squids weapon enabler mod
+# Squid's SSWM enabler
+
+
 This mod is meant to be used in conjunction with sloth squadron's weapon balance mod.
 
 It allows for quick and easy enabling/disabling of the mod.
