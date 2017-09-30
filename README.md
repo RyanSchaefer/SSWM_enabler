@@ -1,4 +1,4 @@
-# Squid's SSWM enabler
+# Ryan's SSWM enabler
 
 
 This mod is meant to be used in conjunction with sloth squadron's weapon balance mod.
